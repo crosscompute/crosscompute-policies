@@ -383,7 +383,3 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 ### Complete Agreement
 
 These Terms of Service, together with the CrossCompute Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and CrossCompute relating to the subject matter of these terms.
-
-### Questions
-
-Questions about the Terms of Service? Contact us.
