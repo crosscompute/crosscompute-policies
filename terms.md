@@ -16,7 +16,7 @@ The "Website" refers to CrossCompute's website located at https://crosscompute.c
 
 "CrossCompute," "We," and "Us" refer to CrossCompute, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 
-"Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users. "Paid Content" is Content only available to Users who are participating in a payment plan, including private notebooks and tools.
+"Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users.
 
 ## Acceptance of Terms of Service
 
