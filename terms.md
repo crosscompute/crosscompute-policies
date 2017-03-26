@@ -2,7 +2,7 @@
 
 Effective Date: March 26, 2017
 
-Welcome to CrossCompute. Please read this Terms of Service agreement carefully before accessing or using CrossCompute.
+Welcome to CrossCompute! Please read this Terms of Service agreement carefully before accessing or using CrossCompute.
 
 ## Definitions
 
