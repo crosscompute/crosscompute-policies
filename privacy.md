@@ -1,4 +1,4 @@
-# CrossCompute Privacy Statement
+# CrossCompute Privacy Policy
 
 Effective Date: March 26, 2017
 
@@ -26,7 +26,7 @@ User Personal Information does not include aggregated, non-personally identifyin
 - We use your User Personal Information, specifically your user name, to identify you on CrossCompute.
 - We use it to fill out your profile and share that profile with other users if you ask us to.
 - We will use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay. Please see our section on email communication for more information.
-- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile.
+- We limit our use of your User Personal Information to the purposes listed in this Privacy Policy. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile.
 
 ## What information CrossCompute does not collect
 
@@ -50,9 +50,9 @@ We may host advertising on CrossCompute.
 
 We may share User Personal Information with your permission, so we can perform services you have requested.
 
-We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services.
+We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Policy. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services.
 
-We may share User Personal Information if we are involved in a merger, sale, or acquisition. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we have made in our Privacy Statement or in our Terms of Service.
+We may share User Personal Information if we are involved in a merger, sale, or acquisition. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we have made in our Privacy Policy or in our Terms of Service.
 
 ### Public Information on CrossCompute
 
@@ -94,7 +94,7 @@ No method of transmission, or method of electronic storage, is 100% secure. Ther
 
 ## CrossCompute's global privacy practices
 
-Information that we collect will be stored and processed in the United States in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
+Information that we collect will be stored and processed in the United States in accordance with this Privacy Policy. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
 
 We provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We have appointed a Privacy Counsel and we work hard to comply with the applicable data privacy laws wherever we do business. Additionally, we require that if our vendors or affiliates have access to User Personal Information, they must comply with our privacy policies and with applicable data privacy laws, including signing data transfer agreements such as Standard Contractual Clause agreements.
 
@@ -135,6 +135,6 @@ Depending on your email settings, CrossCompute may occasionally send notificatio
 
 Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we're not sending you unwanted email. If you prefer not to receive pixel tags, please opt out of marketing emails.
 
-## Changes to our Privacy Statement
+## Changes to our Privacy Policy
 
-Although most changes are likely to be minor, CrossCompute may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the email address specified in your CrossCompute primary account. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check this page frequently.
+Although most changes are likely to be minor, CrossCompute may change our Privacy Policy from time to time. We will provide notification to Users of material changes to this Privacy Policy through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the email address specified in your CrossCompute primary account. For changes to this Privacy Policy that do not affect your rights, we encourage visitors to check this page frequently.
