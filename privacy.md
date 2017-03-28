@@ -38,7 +38,7 @@ If your notebook or tool is non-private, anyone (including us) may view its cont
 
 If you're a child under the age of 13, you may not have an account on CrossCompute. CrossCompute does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. Please see our Terms of Service for information about account termination.
 
-## How we Share the Information we Collect
+## How We Share the Information We Collect
 
 We do not share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
 
@@ -86,7 +86,7 @@ Certain pages on our site may set other third party cookies. For example, we may
 
 "Do Not Track" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. We do not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of here. Because we do not share this kind of data with third party services or permit this kind of third party data collection on CrossCompute for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
 
-## How CrossCompute Secures your Information
+## How CrossCompute Secures Your Information
 
 CrossCompute takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
@@ -109,13 +109,13 @@ In particular:
 
 If you have concerns about the way CrossCompute is handling your User Personal Information, please let us know immediately by sending an email to legal@crosscompute.com.
 
-## How we Respond to Compelled Disclosure
+## How We Respond to Compelled Disclosure
 
 CrossCompute may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
 
 In complying with court orders and similar legal processes, CrossCompute strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
 
-## How You can Access and Control the Information we Collect
+## How You can Access and Control the Information We Collect
 
 If you're already a CrossCompute user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting CrossCompute Support.
 
