@@ -8,13 +8,13 @@ You, as a United States government entity, are required, when entering into agre
 
 CrossCompute and You (together, the "Parties") agree that modifications to the CrossCompute Terms of Service (the "ToS") are appropriate to accommodate Your legal status, Your public (in contrast to private) mission, and other special circumstances. Accordingly, the ToS are hereby modified by this Amendment as they pertain to the Agency's use of the Company web site and services:
 
-## Public purpose
+## Public Purpose
 
 Government entity - "You" within the ToS shall mean the Agency itself and shall not bind, in their individual capacity, the individual(s) who utilize the Company site or services on the Agency's behalf. Company will look solely to the Agency to enforce any violation or breach of the ToS by such individuals, subject to federal law.
 
 Advertisements - Company hereby agrees not to serve or display any third-party commercial advertisements or solicitations on any pages within the Company site displaying content created by or under the control of the Agency. This exclusion shall not extend to house ads, which Company may serve on such pages in a non-intrusive manner. The foregoing obligations are contingent upon the email address provided for Your account ending in .gov, .mil, or .fed.us.
 
-## Your content on CrossCompute
+## Your Content on CrossCompute
 
 Access and use - Company acknowledges that the Agency's use of and the Service may energize significant citizen engagement. Language in the ToS allowing Company to terminate service, refuse or remove any Content, or close the Agency's account, at any time, for any reason, is modified to reflect the Parties' agreement that Company may unilaterally modify or discontinue service, temporarily or permanently, refuse or remove any Content, and/or terminate the Agency's account only for breach of the Agency’s obligations under the ToS or its material failure to comply with the instructions and guidelines posted on the Service, or if Company ceases to operate the Service generally. Company will provide the Agency with a reasonable opportunity to cure any breach or failure on the Agency's part.
 
@@ -22,7 +22,7 @@ No endorsement - Company agrees that Your seals, trademarks, logos, service mark
 
 Provision of data - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy.
 
-## Free and paid credits
+## Free and Paid Credits
 
 No cost agreement - Nothing in this Amendment or ToS obligates You to expend appropriations or incur financial obligations. The Parties acknowledge and agree that none of the obligations arising from this Amendment or ToS are contingent upon the payment of fees by one party to the other. At the Company’s discretion, CrossCompute may offer free credits, and in that case this Amendment will apply to the Agency’s usage of the free credits. This Amendment also applies when the Agency uses CrossCompute’s paid credits.
 
@@ -46,7 +46,7 @@ Governing law and Forum - The dispute resolution provision in the ToS is hereby 
 
 Assignment - Neither party may assign its obligations under this Amendment or ToS to any third-party without prior written consent of the other; however, CrossCompute may, without the Agency's consent, assign its obligations to an Agency using the service under a free usage plan under this Amendment or ToS to an affiliate or to a successor or acquirer, as the case may be, in connection with a merger, acquisition, corporate reorganization or consolidation, or the sale of all or substantially all of CrossCompute's assets.
 
-## Changes to this agreement
+## Changes to this Agreement
 
 Changes to standard ToS - Language in the ToS reserving to Company the right to make material changes to the ToS is hereby amended to grant You at least three days advance notice of any material change to the ToS. Company shall send this notice to the email address You designate as your account's primary billing email address. You are responsible for updating this email address in the event that your notification preferences change.
 

@@ -4,9 +4,9 @@ Effective Date: March 26, 2017
 
 Thanks for entrusting CrossCompute with your source code, your projects, and your personal information.
 
-# What information CrossCompute collects and why
+# What Information CrossCompute Collects and Why
 
-## Information from website browsers
+## Information from Website Browsers
 
 If you're just browsing the website, we collect the same basic information that most websites collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
 
@@ -14,7 +14,7 @@ The information we collect about all visitors to our website includes the visito
 
 We collect this information to better understand how our website visitors use CrossCompute, and to monitor and protect the security of the website.
 
-## Information from users with accounts
+## Information from Users with Accounts
 
 If you create an account, we require some basic information at the time of account creation. You may create your own user name and password, and we will ask you for a valid email account. You also have the option to give us more information if you want to, and this may include "User Personal Information."
 
@@ -28,7 +28,7 @@ User Personal Information does not include aggregated, non-personally identifyin
 - We will use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay. Please see our section on email communication for more information.
 - We limit our use of your User Personal Information to the purposes listed in this Privacy Policy. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile.
 
-## What information CrossCompute does not collect
+## What Information CrossCompute does not Collect
 
 We do not intentionally collect sensitive personal information, such as social security numbers, genetic data, health information, or religious information. Although CrossCompute does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a notebook or tool. If you store any sensitive personal information on our servers, you are consenting to our storage of that information on our servers, which are in the United States.
 
@@ -38,7 +38,7 @@ If your notebook or tool is non-private, anyone (including us) may view its cont
 
 If you're a child under the age of 13, you may not have an account on CrossCompute. CrossCompute does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. Please see our Terms of Service for information about account termination.
 
-## How we share the information we collect
+## How we Share the Information we Collect
 
 We do not share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
 
@@ -64,7 +64,7 @@ If you would like to compile CrossCompute data, you may only use any public-faci
 
 Similarly, projects on CrossCompute may include publicly available Personal Information collected as part of the collaborative process. In the event that a CrossCompute project contains publicly available Personal Information that does not belong to CrossCompute users, we will only use that Personal Information for the limited purpose for which it was collected, and we will secure that Personal Information as we would secure any User Personal Information. If you have a complaint about any Personal Information on CrossCompute, please see our section on resolving complaints.
 
-## Our use of cookies and tracking
+## Our Use of Cookies and Tracking
 
 ### Cookies
 
@@ -86,13 +86,13 @@ Certain pages on our site may set other third party cookies. For example, we may
 
 "Do Not Track" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. We do not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of here. Because we do not share this kind of data with third party services or permit this kind of third party data collection on CrossCompute for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
 
-## How CrossCompute secures your information
+## How CrossCompute Secures your Information
 
 CrossCompute takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
 No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
-## CrossCompute's global privacy practices
+## CrossCompute's Global Privacy Practices
 
 Information that we collect will be stored and processed in the United States in accordance with this Privacy Policy. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
 
@@ -109,13 +109,13 @@ In particular:
 
 If you have concerns about the way CrossCompute is handling your User Personal Information, please let us know immediately by sending an email to legal@crosscompute.com.
 
-## How we respond to compelled disclosure
+## How we Respond to Compelled Disclosure
 
 CrossCompute may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
 
 In complying with court orders and similar legal processes, CrossCompute strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
 
-## How you can access and control the information we collect
+## How You can Access and Control the Information we Collect
 
 If you're already a CrossCompute user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting CrossCompute Support.
 
@@ -127,7 +127,7 @@ We may retain certain User Personal Information indefinitely, unless you delete 
 
 If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days.
 
-## How we communicate with you
+## How We Communicate with You
 
 We will use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay. You have a lot of control over how your email address is used and shared on and through CrossCompute. You may manage your communication preferences in your user profile.
 
