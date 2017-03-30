@@ -36,7 +36,7 @@ We do not intentionally collect information that is stored in your notebooks or 
 
 If your notebook or tool is non-private, anyone (including us) may view its contents. If you have included private or sensitive information in your non-private notebooks or tools, such as email addresses, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your notebooks or tools, we may scan our servers for certain tokens or security signatures.
 
-If you're a child under the age of 13, you may not have an account on CrossCompute. CrossCompute does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. Please see our Terms of Service for information about account termination.
+If you're a child under the age of 13, you may not have an account on CrossCompute. CrossCompute does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. Please see our [Terms of Service](https://crosscompute/policies/terms) for information about account termination.
 
 ## How We Share the Information We Collect
 
@@ -44,7 +44,7 @@ We do not share, sell, rent, or trade User Personal Information with third parti
 
 We do not disclose User Personal Information outside CrossCompute, except in the situations listed in this section or in the section below on Compelled Disclosure.
 
-We do share certain aggregated, non-personally identifying information with others about how our users, collectively, use CrossCompute, or how our users respond to our other offerings, such as our conferences or events. For example, we may compile statistics on the usage of open source licenses across CrossCompute. However, we do not sell this information to advertisers or marketers.
+We do share certain aggregated, non-personally identifying information with others about how our users, collectively, use CrossCompute, or how our users respond to our other offerings, such as our conferences or events. For example, we may compile statistics on which kinds of notebooks and tools tend to be popular across CrossCompute.
 
 We may host advertising on CrossCompute.
 
@@ -96,7 +96,7 @@ No method of transmission, or method of electronic storage, is 100% secure. Ther
 
 Information that we collect will be stored and processed in the United States in accordance with this Privacy Policy. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
 
-We provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We have appointed a Privacy Counsel and we work hard to comply with the applicable data privacy laws wherever we do business. Additionally, we require that if our vendors or affiliates have access to User Personal Information, they must comply with our privacy policies and with applicable data privacy laws, including signing data transfer agreements such as Standard Contractual Clause agreements.
+We provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. Additionally, we require that if our vendors or affiliates have access to User Personal Information, they must comply with our privacy policies and with applicable data privacy laws.
 
 In particular:
 

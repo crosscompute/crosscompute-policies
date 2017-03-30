@@ -6,7 +6,7 @@ Welcome to CrossCompute! Please read this Terms of Service agreement carefully b
 
 ## Definitions
 
-The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the CrossCompute Privacy Statement, available at https://crosscompute.com/policies/privacy) and procedures that we may publish from time to time on the Website.
+The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including our [Privacy Policy](https://crosscompute.com/policies/privacy)) and procedures that we may publish from time to time on the Website.
 
 The "Service" refers to the applications, software, products, and services provided by CrossCompute.
 
@@ -56,7 +56,7 @@ You will promptly notify CrossCompute if you become aware of any unauthorized us
 
 In some situations, third parties' terms may apply to your use of CrossCompute. For example, you may be a member of an organization on CrossCompute with its own terms or license agreements. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-If you are a government User or otherwise accessing or using any CrossCompute Service in a government capacity, this Government Amendment to CrossCompute Terms of Service applies to you, and you agree to its provisions.
+If you are a government User or otherwise accessing or using any CrossCompute Service in a government capacity, this [Government Amendment to CrossCompute Terms of Service](https://crosscompute.com/policies/terms-government) applies to you, and you agree to its provisions.
 
 ## Acceptable Use
 
@@ -108,7 +108,7 @@ You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion
 
 Misuse of CrossCompute Users' Personal Information is prohibited.
 
-Any person, entity, or service collecting data from CrossCompute must comply with the CrossCompute Privacy Statement, particularly in regards to the collection of our Users' Personal Information (as defined in the CrossCompute Privacy Statement). If you collect any CrossCompute User's Personal Information from CrossCompute, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from CrossCompute, and you will respond promptly to complaints, removal requests, and "do not contact" requests from CrossCompute or CrossCompute Users.
+Any person, entity, or service collecting data from CrossCompute must comply with our Privacy Policy, particularly in regards to the collection of our Users' Personal Information (as defined in our Privacy Policy). If you collect any CrossCompute User's Personal Information from CrossCompute, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from CrossCompute, and you will respond promptly to complaints, removal requests, and "do not contact" requests from CrossCompute or CrossCompute Users.
 
 ### Excessive Bandwidth Use
 
@@ -182,9 +182,9 @@ By submitting Your Content to the Website, excluding privately transmitted User 
 
 ### License Grant to Other Users
 
-Any Content you post non-privately, including notebooks, tools, and results, may be viewed by others. By setting your Content to be viewed non-privately, you agree to allow others to view and execute it (this means that others may make their own copies of your Content).
+Any Content you post non-privately, including notebooks, tools, and results, may be viewed by others. By setting your Content to be non-private, you agree to allow others to view and execute it (this means that others may make their own copies of your Content).
 
-If you set your notebooks, tools, and results to be viewed non-privately, you grant each User of CrossCompute a nonexclusive, worldwide license to access your Content through the CrossCompute Service, and to use, display, execute, and perform your Content, and to reproduce your Content solely on CrossCompute as permitted through CrossCompute's functionality. You may grant further rights if you adopt a license.
+If you set your notebooks, tools, and results to be non-private, you grant each User of CrossCompute a nonexclusive, worldwide license to access your Content through the CrossCompute Service, and to use, display, execute, and perform your Content, and to reproduce your Content solely on CrossCompute as permitted through CrossCompute's functionality. You may grant further rights if you adopt a license.
 
 You also hereby do and shall grant each user of the Website and/or the Service a non-exclusive, perpetual license to access any of your User Content that is available to such user on the Website, and to use, reproduce, distribute, prepare derivative works of, display and perform such User Content, including after your termination of your Account or the Service. By submitting any User Content to the Service other than on the Website, you hereby do and shall grant us a worldwide, non-exclusive, perpetual, irrevocable, royalty-free, fully paid, sublicensable and transferable license to use, aggregate, reproduce, distribute, prepare derivative works of, display, and perform such User Content solely for the purpose of providing the Service. For clarity, the foregoing licenses granted to us and our users does not affect your other ownership or license rights in your User Content, including the right to grant additional licenses to your User Content, unless otherwise agreed in writing. You represent and warrant that you have all rights to grant such licenses to us without infringement or violation of any third party rights, including without limitation, any privacy rights, publicity rights, copyrights, trademarks, contract rights, or any other intellectual property or proprietary rights.
 
@@ -228,7 +228,7 @@ You may not share API tokens to exceed CrossCompute's rate limitations.
 
 You may not use the API to download data or Content from CrossCompute for spamming purposes, including for the purposes of selling CrossCompute users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of the CrossCompute API is subject to these Terms of Service and the CrossCompute Privacy Statement.
+All use of the CrossCompute API is subject to these Terms of Service and our Privacy Policy.
 
 ### CrossCompute May Terminate Your Use of the API
 
@@ -252,7 +252,7 @@ We use third-party payment processors to bill you through a payment account link
 
 ### Pricing
 
-Our pricing and payment terms are available at https://crosscompute.com/credits. Prices are subject to change without notice.
+Our pricing and payment terms are available at https://crosscompute.com/pricing. Prices are subject to change without notice.
 
 ### No Refunds
 
@@ -330,7 +330,7 @@ In addition, you agree that CrossCompute is not responsible for any data compile
 
 ## Publicity
 
-Each User is permitted to state publicly that such User is a User of the Service. Subject to CrossCompute's Privacy Policy, each User agrees that CrossCompute may include such User's name and trademarks in a list of CrossCompute User, online or in promotional materials. Each User also agrees that CrossCompute may verbally reference such User as a User of the Service. User may opt out of the provisions in this section by e-mailing a request to legal@crosscompute.com.
+Each User is permitted to state publicly that such User is a User of the Service. Subject to our Privacy Policy, each User agrees that CrossCompute may include such User's name and trademarks in a list of CrossCompute User, online or in promotional materials. Each User also agrees that CrossCompute may verbally reference such User as a User of the Service. User may opt out of the provisions in this section by e-mailing a request to legal@crosscompute.com.
 
 ## Release and Indemnification
 
@@ -374,7 +374,7 @@ Neither you nor CrossCompute shall be liable for nonperformance of the terms her
 
 ### Non-Assignability
 
-CrossCompute may assign or delegate these Terms of Service and/or the CrossCompute Privacy Statement, in whole or in part, to any person or entity at any time with or without your consent, including your license grant to us. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+CrossCompute may assign or delegate these Terms of Service and/or our Privacy Policy, in whole or in part, to any person or entity at any time with or without your consent, including your license grant to us. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Policy without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 ### Severability, No Waiver, and Survival
 
@@ -382,4 +382,4 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 
 ### Complete Agreement
 
-These Terms of Service, together with the CrossCompute Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and CrossCompute relating to the subject matter of these terms.
+These Terms of Service, together with our Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and CrossCompute relating to the subject matter of these terms.
