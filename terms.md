@@ -10,7 +10,7 @@ The "Agreement" refers, collectively, to all the terms, conditions, notices cont
 
 The "Service" refers to the applications, software, products, and services provided by CrossCompute.
 
-The "Website" refers to CrossCompute's website located at https://crosscompute.com, and all content, services, and products provided by CrossCompute at or through the Website.
+The "Website" refers to CrossCompute's website located at [https://crosscompute.com](https://crosscompute.com) and all content, services, and products provided by CrossCompute at or through the Website.
 
 "The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See Additional Terms).
 
@@ -252,7 +252,7 @@ We use third-party payment processors to bill you through a payment account link
 
 ### Pricing
 
-Our pricing and payment terms are available at https://crosscompute.com/pricing. Prices are subject to change without notice.
+Our pricing and payment terms are available at [https://crosscompute.com/pricing](https://crosscompute.com/pricing). Prices are subject to change without notice.
 
 ### No Refunds
 
