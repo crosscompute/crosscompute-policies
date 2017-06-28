@@ -182,9 +182,9 @@ By submitting Your Content to the Website, excluding privately transmitted User 
 
 ### License Grant to Other Users
 
-Any Content you post non-privately, including notebooks, tools, and results, may be viewed by others. By setting your Content to be non-private, you agree to allow others to view and execute it (this means that others may make their own copies of your Content).
+Any Content you post that is not Secret, including notebooks, tools, and results, may be viewed by others. By setting your Content to be not Secret, you agree to allow others to view and execute it (this means that others may make their own copies of your Content).
 
-If you set your notebooks, tools, and results to be non-private, you grant each User of CrossCompute a nonexclusive, worldwide license to access your Content through the CrossCompute Service, and to use, display, execute, and perform your Content, and to reproduce your Content solely on CrossCompute as permitted through CrossCompute's functionality. You may grant further rights if you adopt a license.
+If you set your notebooks, tools, and results to be not Secret, you grant each User of CrossCompute a nonexclusive, worldwide license to access your Content through the CrossCompute Service, and to use, display, execute, and perform your Content, and to reproduce your Content solely on CrossCompute as permitted through CrossCompute's functionality. You may grant further rights if you adopt a license.
 
 You also hereby do and shall grant each user of the Website and/or the Service a non-exclusive, perpetual license to access any of your User Content that is available to such user on the Website, and to use, reproduce, distribute, prepare derivative works of, display and perform such User Content, including after your termination of your Account or the Service. By submitting any User Content to the Service other than on the Website, you hereby do and shall grant us a worldwide, non-exclusive, perpetual, irrevocable, royalty-free, fully paid, sublicensable and transferable license to use, aggregate, reproduce, distribute, prepare derivative works of, display, and perform such User Content solely for the purpose of providing the Service. For clarity, the foregoing licenses granted to us and our users does not affect your other ownership or license rights in your User Content, including the right to grant additional licenses to your User Content, unless otherwise agreed in writing. You represent and warrant that you have all rights to grant such licenses to us without infringement or violation of any third party rights, including without limitation, any privacy rights, publicity rights, copyrights, trademarks, contract rights, or any other intellectual property or proprietary rights.
 
@@ -194,9 +194,9 @@ You retain all moral rights to Content you upload, publish, or submit to any par
 
 To the extent such an agreement is not enforceable by applicable law, you grant CrossCompute a limited, worldwide, non-exclusive, royalty-free, fully paid up right to (1) use the Content without attribution strictly as necessary to render the Website and provide the Service; and (2) make reasonable adaptations of the Content as provided in this Section. We need these rights to allow basic functions like search to work.
 
-### Private Content
+### Secret Content
 
-Users may have private Content, which allow the User to control access to Content. CrossCompute employees only access private content when access is required for security or maintenance or for support reasons, and then only with the consent of the content owner. Because we respect your privacy in private repositories, you must respect the Terms of Service in everything you post to a private repository. If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to remove them.
+Users may have Secret Content, which allow the User to control access to Content. CrossCompute employees only access Secret Content when access is required for security or maintenance or for support reasons, and then only with the consent of the content owner. Because we respect your privacy in Secret Content, you must respect the Terms of Service in your Secret Content. If we have reason to believe the Secret Content is in violation of the law or of these Terms, we have the right to remove them.
 
 ## Third Party Service
 
