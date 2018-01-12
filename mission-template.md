@@ -7,6 +7,9 @@ Describe a short-term goal that you can complete within two weeks.
 # Owner
 State your name.
 
+# Roles
+Identify who is responsible for what.
+
 # Context
 Explain why the mission is important.
 
