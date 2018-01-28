@@ -2,7 +2,7 @@
 Describe your long-term goal for the project.
 
 # Mission
-Describe a short-term goal that you can complete within two weeks.
+Define a short-term goal that you can complete within two weeks.
 
 # Owner
 State your name.
@@ -14,13 +14,13 @@ Identify who is responsible for what.
 Explain why the mission is important.
 
 # Timeframe
-Give dates for when you will start and finish the mission.
+Set estimated and actual dates for when you start and finish.
+
+# Budget
+Itemize estimated and actual costs including compensation.
 
 # Objectives
 Specify at most three goals that must be achieved for the mission to be successful.
-
-# Budget
-Estimate total cost including compensation.
 
 # Log
 Record progress toward objectives.
