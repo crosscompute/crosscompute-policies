@@ -27,3 +27,6 @@ Record progress toward objectives.
 
 # Tasks
 List remaining tasks.
+
+# Lessons
+Give feedback on how we can do better next time.
