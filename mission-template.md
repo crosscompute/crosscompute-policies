@@ -29,7 +29,7 @@ Record progress toward objectives.
 Reserve time to do the work.
 
 # Tasks
-List remaining tasks.
+Outline the breakdown of work.
 
 # Lessons
 Give feedback on how we can do better next time.
