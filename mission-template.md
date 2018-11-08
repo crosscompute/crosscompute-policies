@@ -22,14 +22,17 @@ Itemize estimated and actual costs including compensation.
 # Objectives
 Specify at most three goals that must be achieved for the mission to be successful.
 
-# Log
-Record progress toward objectives.
+# Plan
+Outline the breakdown of work.
 
 # Schedule
 Reserve time to do the work.
 
+# Log
+Record progress toward objectives.
+
 # Tasks
-Outline the breakdown of work.
+List remaining tasks.
 
 # Lessons
 Give feedback on how we can do better next time.
