@@ -25,11 +25,11 @@ Specify at most three goals that must be achieved for the mission to be successf
 # Plan
 Outline the breakdown of work.
 
-# Schedule
-Reserve time to do the work.
-
 # Log
 Record progress toward objectives.
+
+# Schedule
+Reserve time to do the work.
 
 # Tasks
 List remaining tasks.
