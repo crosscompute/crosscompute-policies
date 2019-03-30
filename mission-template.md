@@ -22,8 +22,8 @@ Itemize estimated and actual costs including compensation.
 # Objectives
 Specify at most three goals that must be achieved for the mission to be successful.
 
-# Plan
-Outline the breakdown of work.
+# Habits
+Detail how, when, where you will experiment and practice toward objectives.
 
 # Log
 Record progress toward objectives.
