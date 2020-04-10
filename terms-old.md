@@ -1,23 +1,3 @@
-# CrossCompute Terms of Service
-
-Effective Date: March 26, 2017
-
-Welcome to CrossCompute! Please read this Terms of Service agreement carefully before accessing or using CrossCompute.
-
-## Definitions
-
-The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including our [Privacy Policy](https://crosscompute.com/policies/privacy)) and procedures that we may publish from time to time on the Website.
-
-The "Service" refers to the applications, software, products, and services provided by CrossCompute.
-
-The "Website" refers to CrossCompute's website located at [https://crosscompute.com](https://crosscompute.com) and all content, services, and products provided by CrossCompute at or through the Website.
-
-"The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See Additional Terms).
-
-"CrossCompute," "We," and "Us" refer to CrossCompute, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
-
-"Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users.
-
 ## Acceptance of Terms of Service
 
 Please read these Terms of Service carefully before using the Service. These Terms of Service apply to all users of the Service. If you are using the Service on behalf of an entity, organization, or company, you represent and warrant that you have the authority to bind such organization to these Terms of Service and you agree to be bound by these Terms of Service on behalf of such organization. Agreeing to use the Service by clicking "Sign up" constitutes your acceptance and agreement to be bound by these Terms of Service, and all other operating rules, policies and procedures that may be published from time to time on the Website by us, each of which is incorporated by reference and each of which may be modified from time to time without notice to you. You acknowledge receipt of our Privacy Policy. If you ordered the Service on the Website, use the Website, or otherwise engage in any electronic transaction with respect to the Service, then you agree to receive any updates to our Privacy Policy by accessing the Website. By using our Website or purchasing our products or services, you agree that we may use and share your personal information in accordance with the terms of our Privacy Policy.
