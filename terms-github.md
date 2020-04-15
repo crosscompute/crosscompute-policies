@@ -23,13 +23,15 @@ The "Website" refers to CrossCompute's website located at [https://crosscompute.
 ## Account Terms
 
 ### Account Controls
-!!! HERE
 
 Users. Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
 
 Teams. The "owner" of a Team that was created under these Terms has ultimate administrative control over that Team and the Content within it. Within the Service, an owner can manage User access to the Team's data and projects. A Team may have multiple owners, but there must be at least one User Account designated as an owner of a Team. If you are the owner of a Team under these Terms, we consider you responsible for the actions that are performed on or through that Team.
 
-2. Required Information
+### Required Information
+
+!!! HERE
+
 You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid Account, in which case additional information will be necessary for billing purposes.
 
 3. Account Requirements
@@ -55,14 +57,12 @@ If you are a government User or otherwise accessing or using any CrossCompute Se
 If you have signed up for CrossCompute Enterprise Cloud, the Enterprise Cloud Addendum applies to you, and you agree to its provisions.
 
 C. Acceptable Use
-Short version: CrossCompute hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.
 
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
 You agree that you will not under any circumstances violate our Acceptable Use Policies or Community Guidelines.
 
 D. User-Generated Content
-Short version: You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.
 
 1. Responsibility for User-Generated Content
 You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
@@ -96,7 +96,6 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 To the extent this agreement is not enforceable by applicable law, you grant CrossCompute the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
 E. Private Repositories
-Short version: You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.
 
 1. Control of Private Repositories
 Some Accounts may have private repositories, which allow the User to control access to Content.
@@ -121,7 +120,6 @@ If you believe that content on our website violates your copyright, please conta
 We will terminate the Accounts of repeat infringers of this policy.
 
 G. Intellectual Property Notice
-Short version: We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.
 
 1. CrossCompute's Rights to Content
 CrossCompute and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © CrossCompute, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from CrossCompute.
@@ -133,7 +131,6 @@ If you'd like to use CrossCompute's trademarks, you must follow all of our trade
 This Agreement is licensed under this Creative Commons Zero license. For details, see our site-policy repository.
 
 H. API Terms
-Short version: You agree to these Terms of Service, plus this Section H, when using any of CrossCompute's APIs (Application Provider Interface), including use of the API through a third party product that accesses CrossCompute.
 
 Abuse or excessively frequent requests to CrossCompute via the API may result in the temporary or permanent suspension of your Account's access to the API. CrossCompute, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
@@ -146,12 +143,10 @@ All use of the CrossCompute API is subject to these Terms of Service and the Cro
 CrossCompute may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of CrossCompute's Service.
 
 I. CrossCompute Additional Product Terms
-Short version: You need to follow certain specific terms and conditions for CrossCompute's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.
 
 Some Service features may be subject to additional terms specific to that feature or product as set forth in the CrossCompute Additional Product Terms. By accessing or using the Services, you also agree to the CrossCompute Additional Product Terms.
 
 ## Payment
-Short version: You are responsible for any fees associated with your use of CrossCompute. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.
 
 1. Pricing
 Our pricing and payment terms are available at crosscompute.com/pricing. If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
@@ -175,7 +170,6 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay CrossCompute any charge incurred in connection with your use of the Service. If you dispute the matter, contact CrossCompute Support. You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
 
 L. Cancellation and Termination
-Short version: You may close your Account at any time. If you do, we'll treat your information responsibly.
 
 1. Account Cancellation
 It is your responsibility to properly cancel your Account with CrossCompute. You can cancel your Account at any time by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
@@ -194,7 +188,6 @@ CrossCompute has the right to suspend or terminate your access to all or any par
 All provisions of this Agreement which, by their nature, should survive termination will survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 M. Communications with CrossCompute
-Short version: We use email and other electronic means to stay in touch with our users.
 
 1. Electronic Communication Required
 For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.
@@ -206,14 +199,12 @@ Communications made through email or CrossCompute Support's messaging system wil
 CrossCompute only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
 N. Disclaimer of Warranties
-Short version: We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.
 
 CrossCompute provides the Website and the Service "as is" and "as available," without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
 CrossCompute does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
 O. Limitation of Liability
-Short version: We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
@@ -228,14 +219,12 @@ any other matter relating to the Service.
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
 P. Release and Indemnification
-Short version: You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.
 
 If you have a dispute with one or more Users, you agree to release CrossCompute from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys' fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that CrossCompute (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases CrossCompute of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
 Q. Changes to These Terms
-Short version: We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our Site Policy repository.
 
