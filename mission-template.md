@@ -1,7 +1,7 @@
-# Purpose
+# Vision
 Describe your long-term goal for the project.
 
-# Goal
+# Mission
 Define a short-term goal that you can complete within two weeks.
 
 # Owner
