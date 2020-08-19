@@ -34,5 +34,8 @@ Reserve time to do the work.
 # Tasks
 List remaining tasks.
 
+# Milestones
+Highlight accomplishments.
+
 # Lessons
 Give feedback on how we can do better next time.
