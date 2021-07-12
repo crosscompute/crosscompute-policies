@@ -29,12 +29,7 @@ Reports created by or funded by the Customer are eligible for a Revenue Share Ag
 
 ## Intellectual Property
 1. Customers retain intellectual property over content that they created.
-2. CrossCompute retains intellectual property over the following assets:
-
-    - [CrossCompute Platform](https://crosscompute.com)
-    - [CrossCompute Extensions for JupyterLab](https://github.com/crosscompute/crosscompute-jupyterlab-extensions)
-    - [CrossCompute Framework](https://github.com/crosscompute/crosscompute)
-
+2. CrossCompute retains intellectual property over the following assets: [CrossCompute Platform](https://crosscompute.com), [CrossCompute Extensions for JupyterLab](https://github.com/crosscompute/crosscompute-jupyterlab-extensions), [CrossCompute Framework](https://github.com/crosscompute/crosscompute).
 3. CrossCompute Content Creators retain intellectual property over content that they created.
 
 ## Referral Bonus
