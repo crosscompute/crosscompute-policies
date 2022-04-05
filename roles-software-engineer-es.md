@@ -19,7 +19,8 @@ CrossCompute está transformando la planificación de la infraestructura a trav�
 
 ## Calificaciones Preferidas
 
-- Aplicaciones web progresivas, trabajadores de servicios
+- Aplicaciones Web Progresivas, Trabajadores de Servicios
+- Contenedores
 - Componentes Web
 - WebGL
 - Investigación de Operaciones, Optimización Combinatoria

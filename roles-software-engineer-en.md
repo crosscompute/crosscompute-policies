@@ -20,6 +20,7 @@ CrossCompute is transforming infrastructure planning through open source softwar
 ## Preferred Qualifications
 
 - Progressive Web Apps, Service Workers
+- Containers
 - Web Components
 - WebGL
 - Operations Research, Combinatorial Optimization
