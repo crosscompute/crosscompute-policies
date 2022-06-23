@@ -22,8 +22,8 @@ Itemize estimated and actual costs including compensation.
 # Objectives
 Specify at most three goals that must be achieved for the mission to be successful.
 
-# Habits
-Detail what, when, where you will practice progress toward objectives.
+# Processes
+Detail what, when and how the team will practice progress toward objectives.
 
 # Log
 Record progress toward objectives.
