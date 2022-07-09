@@ -10,8 +10,8 @@ State your name.
 # Roles
 Identify who is responsible for what.
 
-# Context
-Explain why the mission is important.
+# Outcome
+Justify the proposed return on investment.
 
 # Timeframe
 Set estimated and actual dates for when you start and finish.
