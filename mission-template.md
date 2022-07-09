@@ -4,14 +4,14 @@ Describe your long-term goal for the project.
 # Mission
 Define a short-term goal that you can complete within two weeks.
 
-# Owner
-State your name.
-
-# Roles
-Identify who is responsible for what.
-
 # Outcome
 Justify the proposed return on investment.
+
+# Objectives
+Specify at most three goals that must be achieved for the mission to be successful.
+
+# Processes
+Detail what, when and how the team will practice progress toward objectives.
 
 # Timeframe
 Set estimated and actual dates for when you start and finish.
@@ -19,11 +19,11 @@ Set estimated and actual dates for when you start and finish.
 # Budget
 Itemize estimated and actual costs including compensation.
 
-# Objectives
-Specify at most three goals that must be achieved for the mission to be successful.
+# Owner
+State your name.
 
-# Processes
-Detail what, when and how the team will practice progress toward objectives.
+# Roles
+Identify who is responsible for what.
 
 # Log
 Record progress toward objectives.
