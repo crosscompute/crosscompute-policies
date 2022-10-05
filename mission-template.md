@@ -22,9 +22,6 @@ Identify what can cause the mission to fail.
 # Processes
 Detail what, when and how the team will practice progress toward objectives.
 
-# Owner
-State your name.
-
 # Log
 Record progress toward objectives.
 
