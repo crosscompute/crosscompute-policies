@@ -1,38 +1,20 @@
-# Vision
-Describe your long-term goal for the project.
+# Problem
+Describe the problem.
 
-# Mission
-Define a short-term goal that you can complete within two weeks.
+# People
+List people who have the problem.
 
 # Timeframe
-Set estimated and actual dates for when you start and finish.
-
-# Objectives
-Specify at most three goals that must be achieved for the mission to be successful.
-
-# Commitments
-Pinpoint who is responsible for what.
-
-# Resources
-Itemize resources needed including budget.
-
-# Risks
-Identify what can cause the mission to fail.
-
-# Processes
-Detail what, when and how the team will practice progress toward objectives.
+Set start and end dates.
 
 # Log
-Record progress toward objectives.
+Record progress.
 
 # Schedule
-Reserve time to do the work.
+Find time.
 
 # Tasks
-Track remaining tasks.
-
-# Milestones
-Highlight accomplishments.
+Track tasks.
 
 # Lessons
-Give feedback on how we can do better next time.
+Write what we have learned.
