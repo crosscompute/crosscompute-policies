@@ -1,256 +1,253 @@
-# CrossCompute Privacy Statement
+Co-branding/marketing partners. We may receive information from partners with which we offer co-branded services or engage in joint marketing activities.
 
-Effective date: May 1, 2020
+Publicly available sources. We may also obtain information from publicly available sources as CrossCompute projects.
 
-Thanks for entrusting CrossCompute Inc. ("CrossCompute", "we") with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
-
-The controller responsible for the processing of your personal information in connection with the Service is CrossCompute, Inc., 88 Colin P. Kelly, San Francisco, CA 94110, privacy@crosscompute.com.
-
-All capitalized terms have their definition in CrossCompute's Terms of Service, unless otherwise noted here.
-
-Summary
-Section	What can you find there?
-What information CrossCompute collects	CrossCompute collects information directly from you for your registration, payment, transactions, and user profile. We also automatically collect from you your usage information, cookies and similar technologies, and device information, subject, where necessary, to your consent. CrossCompute may also collect User Personal Information from third parties. We only collect the minimum amount of personal information necessary from you, unless you choose to provide more.
-What information CrossCompute does not collect	We don't knowingly collect information from children under 13, and we don't collect Sensitive Personal Information.
-How CrossCompute uses your information	In this section, we describe the ways in which we use your information, including to provide you the Service, to communicate with you, for security purposes, and to improve our Service. We also describe the legal basis upon which we process your information, where legally required.
-How we share the information we collect	We may share your information with third parties under one of the following circumstances: with your consent, with our service providers, for security purposes, to comply with our legal obligations, or when there is a change of control or sale of corporate entities or business units. We do not sell your personal information and we do not host advertising on CrossCompute. You can see a list of the service providers that access your information.
-Other important information	We provide additional information specific to repository contents, public information, and Organizations on CrossCompute.
-Additional services	We provide information about additional service offerings, including third-party applications, CrossCompute Pages, and CrossCompute applications.
-How you can access and control the information we collect	We provide ways for you to access, alter, or delete your personal information.
-Our use of cookies and tracking	We use cookies for the overall functionality of our Website, and we use a small number of tracking and analytics services on a few parts of our site. We offer a page that makes this very transparent. Please see this section for more information.
-How CrossCompute secures your information	We take all measures reasonably necessary to protect the confidentiality, integrity, and availability of your personal information on CrossCompute and to protect the resilience of our servers.
-CrossCompute's global privacy practices	We provide a high standard of privacy protection to all our users around the world.
-How we communicate with you	We communicate with you by email. You can control the way we contact you in your account settings, or by contacting us.
-Resolving complaints	In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution through external arbiters.
-Changes to our Privacy Statement	We notify you of material changes to this Privacy Statement 30 days before any such changes become effective. You may also track changes in our Site Policy repository.
-License	This Privacy Statement is licensed under the Creative Commons Zero license.
-Contacting CrossCompute	Please feel free to contact us if you have questions about our Privacy Statement.
-Translations	We provide links to some translations of the Privacy Statement.
-CrossCompute Privacy Statement
-What information CrossCompute collects
-"User Personal Information" is any information about one of our Users which could, alone or together with other information, personally identify them or otherwise be reasonably linked or connected with them. Information such as a username and password, an email address, a real name, an Internet protocol (IP) address, and a photograph are examples of "User Personal Information."
-
-User Personal Information does not include aggregated, non-personally identifying information that does not identify a User or cannot otherwise be reasonably linked or connected with them. We may use such aggregated, non-personally identifying information for research purposes and to operate, analyze, improve, and optimize our Website and Service.
-
-Information users provide directly to CrossCompute
-Registration Information
-We require some basic information at the time of account creation. When you create your own username and password, we ask you for a valid email address.
-
-Payment Information
-If you sign on to a paid Account with us, send funds through the CrossCompute Sponsors Program, or buy an application on CrossCompute Marketplace, we collect your full name, address, and credit card information or PayPal information. Please note, CrossCompute does not process or store your credit card information or PayPal information, but our third-party payment processor does.
-
-If you list and sell an application on CrossCompute Marketplace, we require your banking information. If you raise funds through the CrossCompute Sponsors Program, we require some additional information through the registration process for you to participate in and receive funds through those services.
-
-Profile Information
-You may choose to give us more information for your Account profile, such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third-party website. This information may include User Personal Information. Please note that your profile information may be visible to other Users of our Service.
-
-Information CrossCompute automatically collects from your use of the Service
-Transactional Information
-If you have a paid Account with us, sell an application listed on CrossCompute Marketplace, or raise funds through the CrossCompute Sponsors Program, we automatically collect certain information about your transactions on the Service, such as the date, time, and amount charged.
-
-Usage Information
-If you're accessing our Service or Website, we automatically collect the same basic information that most services collect, subject, where necessary, to your consent. This includes information about how you use the Service, such as the pages you view, the referring site, your IP address and session information, and the date and time of each request. This is information we collect from every visitor to the Website, whether they have an Account or not. This information may include User Personal information.
-
-Cookies and Similar Technologies Information
-As further described below, and subject, where applicable, to your consent, we automatically collect information from cookies and similar technologies (such as cookie ID and settings) to keep you logged in, to remember your preferences, and to identify you and your device.
-
-Device Information
-We may collect certain information about your device, such as its IP address, browser or client application information, language preference, operating system and application version, device type and ID, and device model and manufacturer. This information may include User Personal information.
-
-Information we collect from third parties
-CrossCompute may collect User Personal Information from third parties. For example, this may happen if you sign up for training or to receive information about CrossCompute from one of our vendors, partners, or affiliates. CrossCompute does not purchase User Personal Information from third-party data brokers.
-
-What information CrossCompute does not collect
-We do not intentionally collect "Sensitive Personal Information", such as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation. If you choose to store any Sensitive Personal Information on our servers, you are responsible for complying with any regulatory controls regarding that data.
-
-If you are a child under the age of 13, you may not have an Account on CrossCompute. CrossCompute does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a User who is under the age of 13, we will have to close your Account. We don't want to discourage you from learning to code, but those are the rules. Please see our Terms of Service for information about Account termination. Different countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not have an Account on CrossCompute.
-
-We do not intentionally collect User Personal Information that is stored in your repositories or other free-form content inputs. Any personal information within a user's repository is the responsibility of the repository owner.
+When you are asked to provide personal data, you may decline. And you may use web browser or operating system controls to prevent certain types of automatic data collection. But if you choose not to provide or allow information that is necessary for certain services or features, those services or features may not be available or fully functional.
 
 How CrossCompute uses your information
-We may use your information for the following purposes:
-We use your Registration Information to create your account, and to provide you the Service.
-We use your Payment Information to provide you with the Paid Account service, the Marketplace service, the Sponsors Program, or any other CrossCompute paid service you request.
-We use your User Personal Information, specifically your username, to identify you on CrossCompute.
-We use your Profile Information to fill out your Account profile and to share that profile with other users if you ask us to.
-We use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay. Please see our section on email communication for more information.
-We use User Personal Information to respond to support requests.
-We use User Personal Information and other data to make recommendations for you, such as to suggest projects you may want to follow or contribute to. We learn from your public behavior on CrossCompute—such as the projects you star—to determine your coding interests, and we recommend similar projects. These recommendations are automated decisions, but they have no legal impact on your rights.
-We may use User Personal Information to invite you to take part in surveys, beta programs, or other research projects, subject, where necessary, to your consent .
-We use Usage Information and Device Information to better understand how our Users use CrossCompute and to improve our Website and Service.
-We may use your User Personal Information if it is necessary for security purposes or to investigate possible fraud or attempts to harm CrossCompute or our Users.
-We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our Terms of Service.
-We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile.
-Our legal bases for processing information
-To the extent that our processing of your User Personal Information is subject to certain international laws (including, but not limited to, the European Union's General Data Protection Regulation (GDPR)), CrossCompute is required to notify you about the legal basis on which we process User Personal Information. CrossCompute processes User Personal Information on the following legal bases:
+We may use your information to provide, administer, analyze, manage, and operate our Service. For example, we use your information for the following purposes:
 
-Contract Performance:
-When you create a CrossCompute Account, you provide your Registration Information. We require this information for you to enter into the Terms of Service agreement with us, and we process that information on the basis of performing that contract. We also process your username and email address on other legal bases, as described below.
-If you have a paid Account with us, we collect and process additional Payment Information on the basis of performing that contract.
-When you buy or sell an application listed on our Marketplace or, when you send or receive funds through the CrossCompute Sponsors Program, we process Payment Information and additional elements in order to perform the contract that applies to those services.
-Consent:
-We rely on your consent to use your User Personal Information under the following circumstances: when you fill out the information in your user profile; when you decide to participate in a CrossCompute training, research project, beta program, or survey; and for marketing purposes, where applicable. All of this User Personal Information is entirely optional, and you have the ability to access, modify, and delete it at any time. While you are not able to delete your email address entirely, you can make it private. You may withdraw your consent at any time.
-Legitimate Interests:
-Generally, the remainder of the processing of User Personal Information we perform is necessary for the purposes of our legitimate interest, for example, for legal compliance purposes, security purposes, or to maintain ongoing confidentiality, integrity, availability, and resilience of CrossCompute's systems, Website, and Service.
-If you would like to request deletion of data we process on the basis of consent or if you object to our processing of personal information, please use our Privacy contact form.
+Provide our products and deliver our services including troubleshooting, improving, and personalizing the features on the Service.
+Business operations such as billing, accounting, improving our internal operations, securing our systems, detecting fraudulent or illegal activity, and meeting our legal obligations.
+Improve and develop our products and services including to develop new services or features, and conduct research.
+Personalization of our Service by understanding you and your preferences to enhance your experience and enjoyment using our Service.
+Provide customer support and respond to your questions.
+Deliver promotional communications with you about new services, features, offers, promotions, and other information about our Service.
+Personalize and measure the effectiveness of enterprise business ads, promotional communications or marketing you receive related to the Enterprise Marketing Pages.
+Send you information, including confirmations, invoices, technical notices, updates, security alerts, support and administrative messages.
+We combine data we collect from different sources for these purposes and to give you a more seamless, consistent, and personalized experience.
+
 How we share the information we collect
-We may share your User Personal Information with third parties under one of the following circumstances:
+We share personal data as described below, including with your consent or as necessary to complete your transactions or provide the services you have requested or authorized. In addition, we may share each of the categories of your personal data described above with the types of third parties described below for the following business purposes:
 
-With your consent
-We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application Developer to provide you with services. Additionally, you may direct us through your actions on CrossCompute to share your User Personal Information. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization's access log.
+Public information
+You may select options available through our Service to publicly display and share your name and/or username and certain other information, such as your profile, demographic data, content and files, or geolocation data. For example, if you would like your email address to remain private, even when you’re commenting on public projects, you can adjust your setting for your email address to be private in your user profile. You can also update your local Git configuration to use your private email address. Please see more about email addresses in commit messages here.
 
-With service providers
-We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While CrossCompute processes all User Personal Information in the United States, our service providers may process data outside of the United States or the European Union. If you would like to know who our service providers are, please see our page on Subprocessors.
+Please note that if you would like to compile CrossCompute data, you must comply with our Terms of Service regarding information usage and privacy, and you may only use any public-facing information you gather for the purpose for which our user authorized it. For example, where a CrossCompute user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards, or for commercial advertising. We expect you to reasonably secure information you have gathered from CrossCompute, and to respond promptly to complaints, removal requests, and "do not contact" requests from CrossCompute or CrossCompute users.
+
+Third-party applications
+We share your personal data with third parties when you tell us to do so. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application developer to provide you with services. Additionally, you may direct us through your actions on CrossCompute to share your personal data. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
+
+You can enable or add third-party applications, known as "Developer Products" to your Account. These Developer Products are not necessary for your use of CrossCompute. We will share your personal data with such third-party applications when you ask us to; however, you are responsible for your use of the third-party Developer Product and for the amount of personal data you choose to share with it. You can check our API documentation to see what information is provided when you authenticate into a Developer Product using your CrossCompute profile.
+
+Organizations with which you engage
+You may indicate, through your actions on CrossCompute, that you are willing to share your personal data. If you collaborate on or become a member of an organization, then its Account owners may receive your personal data. When you accept an invitation to an organization, you will be notified of the types of information owners may be able to see (for more information, see About Organization Membership). Please contact the Account owners for more information about how they might process your personal data in their Organization and the ways for you to access, update, alter, or delete your personal data stored in the Account.
+
+Service providers
+We share your personal data with service providers who process the information on our behalf to provide or improve our Service. For example, our service providers may perform payment processing, customer support ticketing, network data transmission, web analytics, marketing operations, security, and other similar services. While CrossCompute processes all personal data in the United States, our service providers may process data outside of the United States or the European Union. Such processing by service providers will be in compliance with applicable law including any relevant transfer mechanism.
+
+Affiliates
+We enable access to personal data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems, when affiliates provide services on our behalf, or where access is needed to operate and provide the Service.
 
 For security purposes
-If you are a member of an Organization, CrossCompute may share your username, Usage Information, and Device Information associated with that Organization with an owner and/or administrator of the Organization who has agreed to the Corporate Terms of Service or applicable customer agreements, to the extent that such information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
+We will disclose personal data if we believe it is necessary to:
 
+protect our customers and others, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone;
+operate and maintain the security of the Service, including to prevent or stop an attack on our systems or networks; or
+protect the rights or property or ourselves or others, including enforcing our agreements, terms, and policies.
 For legal disclosure
-CrossCompute strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information. CrossCompute may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
-
-For more information about our disclosure in response to legal requests, see our Guidelines for Legal Requests of User Data.
+CrossCompute may disclose personal data or other information we collect about you to law enforcement or other governmental agencies if required in response to a valid legal process. For more information about our disclosure in response to legal requests, see our Guidelines for Legal Requests of User Data.
 
 Change in control or sale
-We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
+We may share your personal data if we are involved in a merger, sale, or acquisition of corporate entities or business units as described in this Privacy Statement.
 
-Aggregate, non-personally identifying information
-We share certain aggregated, non-personally identifying information with others about how our users, collectively, use CrossCompute, or how our users respond to our other offerings, such as our conferences or events. For example, we may compile statistics on the open source activity across CrossCompute.
+Please note that some of the features on our Service include integrations, references, or links to services provided by third parties whose privacy practices differ from ours. If you provide personal data to any of those third parties, or allow us to share personal data with them, that data is governed by their privacy statements.
 
-We do not sell your User Personal Information for monetary or other consideration.
+Finally, we may share de-identified information in accordance with applicable law.
 
-Please note: The California Consumer Privacy Act of 2018 ("CCPA") requires businesses to state in their privacy policy whether or not they disclose personal information in exchange for monetary or other valuable consideration. While CCPA only covers California residents, when it goes into effect we will voluntarily extend its core rights for people to control their data to all of our users in the United States, not just those who live in California. You can learn more about the CCPA and how we comply with it here.
+No selling of personal data
+We do not sell your personal data for monetary or other consideration as defined under California and Nevada state laws. You can learn more about the CCPA and how we comply with it here.
 
-Other important information
-Repository contents
-CrossCompute personnel do not access private repositories unless required to for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the Service, or to comply with our legal obligations. However, while we do not generally search for content in your repositories, we may scan our servers and content to detect certain tokens or security signatures, known active malware, or other content known to violate our Terms, such as violent extremist or terrorist content or child exploitation imagery, based on algorithmic fingerprinting techniques. Our Terms of Service provides more details.
+Your choices regarding our processing of your personal data
+We provide choices about the personal data we collect about you. The choices you make will not apply to any personal data associated with an Organization under your Account.
 
-If your repository is public, anyone may view its contents. If you include private, confidential or Sensitive Personal Information, such as email addresses or passwords, in your public repository, that information may be indexed by search engines or used by third parties.
+Access, correction, and deletion. If yougre a CrossCompute user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting CrossCompute Support or CrossCompute Premium Support. You can control the information we collect about you by limiting what information is in your profile, by keeping your information current, by changing your cookie preferences, or by contacting CrossCompute Support or CrossCompute Premium Support.
 
-Please see more about User Personal Information in public repositories.
+We retain and use your information as described in this Privacy Statement, but barring legal requirements, we will delete your full profile within 90 days of your request. After an account has been deleted, certain data, such as contributions to other Usersg projects and comments in others' issues, will remain. However, we will delete or de-identify your personal data, including your username and email address, from the author field of issues, pull requests, and comments by associating them with a ghost user. That said, the email address you have provided via your Git commit settings will always be associated with your commits in the Git system. If you choose to make your email address private, you should also update your Git commit settings. We are unable to change or delete data in the Git commit history — the Git software is designed to maintain a record — but we do enable you to control what information you put in that record.
 
-Public information on CrossCompute
-Many of CrossCompute services and features are public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service, such as by viewing your profile or repositories or pulling data via our API. We do not sell that content; it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing CrossCompute information. Other third parties, such as data brokers, have been known to scrape CrossCompute and compile data as well.
+If CrossCompute processes personal data other than your profile information, such as information about you CrossCompute receives from third parties, then you may, subject to applicable law, access, update, alter, delete, object to or restrict the processing of your personal data by contacting CrossCompute Support or CrossCompute Premium Support.
 
-Your User Personal Information associated with your content could be gathered by third parties in these compilations of CrossCompute data. If you do not want your User Personal Information to appear in third parties' compilations of CrossCompute data, please do not make your User Personal Information publicly available and be sure to configure your email address to be private in your user profile and in your git commit settings. We currently set Users' email address to private by default, but legacy CrossCompute Users may need to update their settings.
+You can adjust the settings on your Account regarding the display of your personal data in private or public projects or personal data processed in connection with Community Features (such as CrossCompute Feed, CrossCompute Sponsors, and CrossCompute Explore) through profile settings.
 
-If you would like to compile CrossCompute data, you must comply with our Terms of Service regarding scraping and privacy, and you may only use any public-facing User Personal Information you gather for the purpose for which our user authorized it. For example, where a CrossCompute user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any User Personal Information you have gathered from CrossCompute, and to respond promptly to complaints, removal requests, and "do not contact" requests from CrossCompute or CrossCompute users.
-
-Similarly, projects on CrossCompute may include publicly available User Personal Information collected as part of the collaborative process. If you have a complaint about any User Personal Information on CrossCompute, please see our section on resolving complaints.
-
-Organizations
-You may indicate, through your actions on CrossCompute, that you are willing to share your User Personal Information. If you collaborate on or become a member of an Organization, then its Account owners may receive your User Personal Information. When you accept an invitation to an Organization, you will be notified of the types of information owners may be able to see (for more information, see About Organization Membership). If you accept an invitation to an Organization with a verified domain, then the owners of that Organization will be able to see your full email address(es) within that Organization's verified domain(s).
-
-Please note, CrossCompute may share your username, Usage Information, and Device Information with the owner of the Organization you are a member of, to the extent that your User Personal Information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
-
-If you collaborate on or become a member of an Account that has agreed to the Corporate Terms of Service and a Data Protection Addendum (DPA) to this Privacy Statement, then that DPA governs in the event of any conflicts between this Privacy Statement and the DPA with respect to your activity in the Account.
-
-Please contact the Account owners for more information about how they might process your User Personal Information in their Organization and the ways for you to access, update, alter, or delete the User Personal Information stored in the Account.
-
-Additional services
-Third party applications
-You have the option of enabling or adding third-party applications, known as "Developer Products," to your Account. These Developer Products are not necessary for your use of CrossCompute. We will share your User Personal Information with third parties when you ask us to, such as by purchasing a Developer Product from the Marketplace; however, you are responsible for your use of the third-party Developer Product and for the amount of User Personal Information you choose to share with it. You can check our API documentation to see what information is provided when you authenticate into a Developer Product using your CrossCompute profile.
-
-CrossCompute Pages
-If you create a CrossCompute Pages website, it is your responsibility to post a privacy statement that accurately describes how you collect, use, and share personal information and other visitor information, and how you comply with applicable data privacy laws, rules, and regulations. Please note that CrossCompute may collect User Personal Information from visitors to your CrossCompute Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service.
-
-CrossCompute applications
-You can also add applications from CrossCompute, such as our Desktop app, our Electron or Atom applications, or other application and account features, to your Account. These applications each have their own terms and may collect different kinds of User Personal Information; however, all CrossCompute applications are subject to this Privacy Statement, and we collect the amount of User Personal Information necessary, and use it only for the purpose for which you have given it to us.
-
-How you can access and control the information we collect
-If you're already a CrossCompute user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting CrossCompute Support or CrossCompute Premium Support. You can control the information we collect about you by limiting what information is in your profile, by keeping your information current, or by contacting CrossCompute Support or CrossCompute Premium Support.
-
-If CrossCompute processes information about you, such as information CrossCompute receives from third parties, and you do not have an account, then you may, subject to applicable law, access, update, alter, delete, or object to the processing of your personal information by contacting CrossCompute Support or CrossCompute Premium Support.
+Additionally, if you are unable to access certain personal data we have via the means described above, you can request access by contacting us as described at the bottom of this privacy statement.
 
 Data portability
-As a CrossCompute User, you can always take your data with you. You can clone your repositories to your desktop, for example, or you can use our Data Portability tools to download information we have about you.
+As a CrossCompute User, you can always take your data with you. You can clone your projects to your desktop, for example, or you can use our Data Portability tools to download information we have about you.
 
-Data retention and deletion of data
-Generally, CrossCompute retains User Personal Information for as long as your account is active or as needed to provide you services.
+Communication preferences
+We use your email address to communicate with you, if yougve said that's okay, and only for the reasons you’ve said that’s okay. For example, if you contact our Support team with a request, we respond to you via email. You have control over how your email address is used and shared on and through our Service. You may manage your communication preferences in your profile.
 
-If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days of your request. You may contact CrossCompute Support or CrossCompute Premium Support to request the erasure of the data we process on the basis of consent within 30 days.
+By design, the Git version control system associates many actions with a usergs email address, such as commit messages. See more details regarding setting your commit email address.
 
-After an account has been deleted, certain data, such as contributions to other Users' repositories and comments in others' issues, will remain. However, we will delete or de-identify your User Personal Information, including your username and email address, from the author field of issues, pull requests, and comments by associating them with a ghost user.
+Depending on your email settings, CrossCompute may occasionally send notification emails, for example, about changes in a project you’re watching, new features, requests for feedback, important policy changes, or to offer customer support. We may also send marketing emails, based on your choices and in accordance with applicable laws and regulations. Theregs an "unsubscribe" link located at the bottom of each of the marketing emails we send you.
 
-That said, the email address you have supplied via your Git commit settings will always be associated with your commits in the Git system. If you choose to make your email address private, you should also update your Git commit settings. We are unable to change or delete data in the Git commit history — the Git software is designed to maintain a record — but we do enable you to control what information you put in that record.
+Please note that you cannot opt out of receiving important communications from us, such as emails from our Support team or system emails, but you can configure your notifications settings in your profile to opt out of other communications.
 
-Our use of cookies and tracking
-Cookies
-CrossCompute uses cookies to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of CrossCompute. For security purposes, we use cookies to identify a device. By using our Website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device's ability to accept these cookies, you will not be able to log in or use CrossCompute's services.
+European Data Protection Rights
+If the processing of personal data about you is subject to European Union data protection law, you have certain rights with respect to that data:
 
-We provide a web page on cookies and tracking that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third-party analytics providers and other service providers, and details exactly which parts of our Website we permit them to track.
+You can request access to, and rectification or erasure of, personal data; If any automated processing of personal data is based on your consent or a contract with you, you have a right to transfer or receive a copy of the personal data in a usable and portable format; If the processing of personal data is based on your consent, you can withdraw consent at any time for future processing; You can to object to, or obtain a restriction of, the processing of personal data under certain circumstances; and For residents of France, you can send us specific instructions regarding the use of your data after your death.
 
-Tracking and analytics
-We use a number of third-party analytics and service providers to help us evaluate our Users' use of CrossCompute, compile statistical reports on activity, and improve our content and Website performance. We only use these third-party analytics providers on certain areas of our Website, and all of them have signed data protection agreements with us that limit the type of User Personal Information they can collect and the purpose for which they can process the information. In addition, we use our own internal analytics software to provide features and improve our content and performance.
+To make such requests, please use the contact information at the bottom of this statement. When we are processing data on behalf of another party (i.e., where CrossCompute is acting as a data processor) you should direct your request to that party. You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns.
 
-Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. CrossCompute responds to browser DNT signals and follows the W3C standard for responding to DNT signals. If you have not enabled DNT on a browser that supports it, cookies on some parts of our Website will track your online browsing activity on other online services over time, though we do not permit third parties other than our analytics and service providers to track CrossCompute Users' activity over time on CrossCompute.
+We rely on different lawful bases for collecting and processing personal data about you, for example, with your consent and/or as necessary to provide the services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests.
+
+Our use of cookies and tracking technologies
+Cookies and tracking technologies
+CrossCompute uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service. For example, we use them to (i) keep you logged in, (ii) remember your preferences, (iii) identify your device for security and fraud purposes, including as needed to maintain the integrity of our Service, (iv) compile statistical reports, and (v) provide information and insight for future development of CrossCompute. We provide more information about cookies on CrossCompute that describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies.
+
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users’ interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts. If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant.
+
+Our emails to users may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email communications more effective and to make sure we are not sending you unwanted email.
+
+The length of time a cookie will stay on your browser or device depends on whether it is a "persistent" or "session" cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay until they expire or are deleted. The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You may be able to delete cookie data as described here.
+
+What are cookies and similar technologies?
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services. When visiting Enterprise Marketing Pages, like resources.github.com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes.
+
+Cookies are small text files stored by your browser on your device. A cookie can later be read when your browser connects to a web server in the same domain that placed the cookie. The text in a cookie contains a string of numbers and letters that may uniquely identify your device and can contain other information as well. This allows the web server to recognize your browser over time, each time it connects to that web server.
+
+Web beacons are electronic images (also called "single-pixel" or "clear GIFs") that are contained within a website or email. When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party). This allows that web server to log information about your device and to set and read its own cookies. In the same way, third-party content on our websites (such as embedded videos, plug-ins, or ads) results in your browser connecting to the third-party web server that hosts that content.
+
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies. When visiting Enterprise Marketing pages, like resources.github.com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes.
+
+We may also use so-called "flash cookies" (also known as "Local Shared Objects" or "LSOs") to collect and store information about your use of our Services. Flash cookies are commonly used for advertisements and videos.
+
+How do we and our partners use cookies and similar technologies?
+The CrossCompute Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes. Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners. For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising. CrossCompute will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources.github.com.
+
+We and/or our partners also share the information we collect or infer with third parties for these purposes.
+
+The table below provides additional information about how we use different types of cookies:
+
+Purpose	Description
+Required Cookies	CrossCompute uses required cookies to perform essential website functions and to provide the services. For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement. These cookies are necessary for our websites to work.
+Analytics	We allow third parties to use analytics cookies to understand how you use our websites so we can make them better. For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. We also use some analytics cookies to provide personalized advertising.
+Social Media	CrossCompute and third parties use social media cookies to show you ads and content based on your social media profiles and activity on CrossCompute’s websites. This ensures that the ads and content you see on our websites and on social media will better reflect your interests. This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by CrossCompute.
+Advertising	In addition, CrossCompute and third parties use advertising cookies to show you new ads based on ads yougve already seen. Cookies also track which ads you click or purchases you make after clicking an ad. This is done both for payment purposes and to show you ads that are more relevant to you. For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history.
+What are your cookie choices and controls?
+You have several options to disable non-essential cookies:
+
+Specifically on CrossCompute Enterprise Marketing Pages
+
+Any CrossCompute page that serves non-essential cookies will have a link in the page’s footer to cookie settings. You can express your preferences at any time by clicking on that linking and updating your settings.
+
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies.
+
+Generally for all websites
+
+You can control the cookies you encounter on the web using a variety of widely-available tools. For example:
+
+If your browser sends a Do Not Track (DNT) signal, CrossCompute will not set non-essential cookies and will not load third party resources which set non-essential cookies.
+Many browsers provide cookie controls which may limit the types of cookies you encounter online. Check out the documentation for your browser to learn more.
+If you enable a browser extension designed to block tracking, such as Privacy Badger, non-essential cookies set by a website or third parties may be disabled.
+If you enable a browser extension designed to block unwanted content, such as uBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.
+Advertising controls. Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:
+United States: NAI and DAA
+Canada: Digital Advertising Alliance of Canada
+Europe: European Digital Advertising Alliance
+These choices are specific to the browser you are using. If you access our Services from other devices or browsers, take these actions from those systems to ensure your choices apply to the data collected when you use those systems.
+
+Retention of personal data
+We retain personal data for as long as necessary to provide the services and fulfill the transactions you have requested, comply with our legal obligations, resolve disputes, enforce our agreements, and other legitimate and lawful business purposes. Because these needs can vary for different data types in the context of different services, actual retention periods can vary significantly based on criteria such as user expectations or consent, the sensitivity of the data, the availability of automated controls that enable users to delete data, and our legal or contractual obligations. For example, we may retain your personal data for longer periods, where necessary, subject to applicable law, for security purposes.
 
 How CrossCompute secures your information
-CrossCompute takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
+CrossCompute takes reasonable measures necessary to protect your personal data from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of your personal data. To help us protect personal data, we request that you use a strong password and never share your password with anyone or use the same password with other sites or accounts.
 
-CrossCompute enforces a written security information program. Our program:
+In addition, if your account has private projects, you control the access to that Content. CrossCompute personnel does not access private project content except for
 
-aligns with industry recognized frameworks;
-includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our Users' data;
-is appropriate to the nature, size, and complexity of CrossCompute's business operations;
-includes incident response and data breach notification processes; and
-complies with applicable information security-related laws and regulations in the geographic regions where CrossCompute does business.
-In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected Users without undue delay.
+security purposes,
+automated scanning for known vulnerabilities, active malware, or other content known to violate our Terms of Service
+to assist the project owner with a support matter
+to maintain the integrity of the Service
+to comply with our legal obligations if we have reason to believe the contents are in violation of the law,
+or with your consent.
+CrossCompute will provide notice regarding private project access where not prohibited by law or if in response to a security threat or other risk to security.
 
-Transmission of data on CrossCompute is encrypted using SSH, HTTPS (TLS), and git repository content is encrypted at rest. We manage our own cages and racks at top-tier data centers with high level of physical and network security, and when data is stored with a third-party storage provider, it is encrypted.
-
-No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our security disclosures.
-
-CrossCompute's global privacy practices
-We store and process the information that we collect in the United States in accordance with this Privacy Statement though our service providers may store and process data outside the United States. However, we understand that we have Users from different countries and regions with different privacy expectations, and we try to meet those needs even when the United States does not have the same privacy framework as other countries.
-
-We provide a high standard of privacy protection—as described in this Privacy Statement—to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We work hard to comply with the applicable data privacy laws wherever we do business, working with our Data Protection Officer as part of a cross-functional team that oversees our privacy compliance efforts. Additionally, if our vendors or affiliates have access to User Personal Information, they must sign agreements that require them to comply with our privacy policies and with applicable data privacy laws.
-
-In particular:
-
-CrossCompute provides clear methods of unambiguous, informed, specific, and freely given consent at the time of data collection, when we collect your User Personal Information using consent as a basis.
-We collect only the minimum amount of User Personal Information necessary for our purposes, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
-We offer you simple methods of accessing, altering, or deleting the User Personal Information we have collected, where legally permitted.
-We provide our Users notice, choice, accountability, security, and access regarding their User Personal Information, and we limit the purpose for processing it. We also provide our Users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
 Cross-border data transfers
-CrossCompute complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of User Personal Information transferred from the European Union, the UK, and Switzerland to the United States. CrossCompute has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
-
-If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit the Privacy Shield website.
-
-How we communicate with you
-We use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay. For example, if you contact our Support team with a request, we respond to you via email. You have a lot of control over how your email address is used and shared on and through CrossCompute. You may manage your communication preferences in your user profile.
-
-By design, the Git version control system associates many actions with a User's email address, such as commit messages. We are not able to change many aspects of the Git system. If you would like your email address to remain private, even when you're commenting on public repositories, you can create a private email address in your user profile. You should also update your local Git configuration to use your private email address. This will not change how we contact you, but it will affect how others see you. We set current Users' email address private by default, but legacy CrossCompute Users may need to update their settings. Please see more about email addresses in commit messages here.
-
-Depending on your email settings, CrossCompute may occasionally send notification emails about changes in a repository you're watching, new features, requests for feedback, important policy changes, or to offer customer support. We also send marketing emails, based on your choices and in accordance with applicable laws and regulations. There's an "unsubscribe" link located at the bottom of each of the marketing emails we send you. Please note that you cannot opt out of receiving important communications from us, such as emails from our Support team or system emails, but you can configure your notifications settings in your profile to opt out of other communications.
-
-Our emails may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we're not sending you unwanted email.
+CrossCompute processes personal data both inside and outside of the United States and relies on legal mechanisms such as Standard Contractual Clauses to lawfully transfer data from the European Economic Area, the United Kingdom, and Switzerland to the United States. You may request a copy of the Standard Contractual Clauses using the contact details provided in the section entitled "Contacting CrossCompute" below.
 
 Resolving complaints
-If you have concerns about the way CrossCompute is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the Privacy contact form. You may also email us directly at privacy@crosscompute.com with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
+If you have concerns about the way CrossCompute is handling your personal data, please let us know immediately. We want to help. You may contact us by filling out the Privacy contact form. You may also email us directly at (privacy [at] github [dot] com) with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
 
-You may also contact our Data Protection Officer directly.
+You may also contact our Data Protection Officer directly at at github [at]dp-officer [dot] com
 
-Our United States HQ	Our EU Office
-CrossCompute Data Protection Officer	CrossCompute BV
-88 Colin P. Kelly Jr. St.	Vijzelstraat 68-72
-San Francisco, CA 94107	1017 HL Amsterdam
-United States	The Netherlands
-privacy@crosscompute.com	privacy@crosscompute.com
+If you are in North America:
+CrossCompute Data Protection Officer
+88 Colin P. Kelly Jr. St.
+San Francisco, CA 94107
+United States
+privacy [at] github [dot] com
+
+If you are outside of North America:
+CrossCompute Data Protection Officer
+c/o DP Dock DPO Services GmbH,
+Attn: CrossCompute BV, Gut Projensdorf,
+24161 Altenholz, Germany
+github@dp-officer.com cc: privacy [at] github [dot] com
+CC: CrossCompute BV, Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands
+
 Dispute resolution process
-In the unlikely event that a dispute arises between you and CrossCompute regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected to cooperate with the relevant EU Data Protection Authority, or a panel established by the European data protection authorities, for resolving disputes with EU individuals, and with the Swiss Federal Data Protection and Information Commissioner (FDPIC) for resolving disputes with Swiss individuals. Please contact us if you'd like us to direct you to your data protection authority contacts.
-
-Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
-
-Independent arbitration
-Under certain limited circumstances, EU, European Economic Area (EEA), Swiss, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about Privacy Shield. Arbitration is not mandatory; it is a tool you can use if you so choose.
-
-We are subject to the jurisdiction of the U.S. Federal Trade Commission (FTC).
+In the unlikely event that a dispute arises between you and CrossCompute regarding our handling of your User Personal Information, we will do our best to resolve it. Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority, and you might have more options.
 
 Changes to our Privacy Statement
-Although most changes are likely to be minor, CrossCompute may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your CrossCompute account. We will also update our Site Policy repository, which tracks all changes to this policy. For changes to this Privacy Statement that are not material changes or that do not affect your rights, we encourage Users to check our Site Policy repository frequently.
+Although most changes are likely to be minor, CrossCompute may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your CrossCompute account. We will also update our Site Policy project, which tracks all changes to this policy. For other changes to this Privacy Statement, we encourage Users to watch or to check our Site Policy project frequently.
 
 License
-This Privacy Statement is licensed under this Creative Commons Zero license. For details, see our site-policy repository.
+This Privacy Statement is licensed under this Creative Commons Zero license. For details, see our site-policy project.
 
 Contacting CrossCompute
-Questions regarding CrossCompute's Privacy Statement or information practices should be directed to our Privacy contact form.
+Questions regarding CrossComputegs Privacy Statement or information practices should be directed to our Privacy contact form.
+
+Translations
+Below are translations of this document into other languages. In the event of any conflict, uncertainty, or apparent inconsistency between any of those versions and the English version, this English version is the controlling version.
+
+French
+Cliquez ici pour obtenir la version française: Déclaration de confidentialité de CrossCompute
+
+Other translations
+For translations of this statement into other languages, please visit https://docs.github.com/ and select a language from the drop-down menu under "English."
+
+CrossComputegs notice to California residents
+The California Consumer Privacy Act of 2018, (Cal. Civ. Code §1798.100 et seq., as amended, "CCPA") gives California residents rights and control over their personal information. CrossCompute, Inc. ("CrossCompute", "we") provides this statement to those residents ("you") in accordance with requirements under the CCPA to make certain disclosures about the collection and processing of their personal information. This is CrossCompute’s California-specific description of consumers’ privacy rights under the CCPA. For information about how we’ve extended the CCPA core rights to control personal information to all of our users in the United States, please see our Privacy Statement.
+
+Our handling of personal information
+While the table below contains information about the categories of personal information we collect, process, and share, please see the CrossCompute Privacy Statement for full details.
+
+Category of personal information collected in last 12 months	Category of sources from which the personal information has been collected
+Identifiers (such as real name, alias, postal address, unique personal identifier, online identifier Internet Protocol address, email address, account name, or other similar identifiers)	Information consumer provides directly or automatically through their interaction with our Service and/or Website or CrossCompute’s vendors, partners, or affiliates
+Personal information described in Cal. Civ. Code §1798.80 (e) such as name, address, credit card or debit card number)	Information consumer may choose to provide directly, through service providers
+Characteristics of protected classifications under California or federal law (such as gender)	Information consumer may choose to provide directly
+Commercial information (such as about products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies)	Information consumer provides directly or automatically through their interaction with our Services
+Geolocation data (such as any information collected after giving users the opportunity to opt-in to location-based services, which rely upon a device’s precise location services. )	Information consumer provides automatically through their interaction with our Services
+Audio, electronic, visual, or similar information such as content and files uploaded to the Service.	Information consumer may choose to provide directly
+Professional or employment information	Information consumer may choose to provide directly
+Inferences drawn from any of the information identified in this table to create a profile about a consumer reflecting the consumer’s preferences	Information consumer provides directly or automatically through their interaction with our Services
+We use the categories of personal information described above for the purposes listed in the "How CrossCompute uses your information" section of our Privacy Statement. We also disclose the categories of personal information listed above for business purposes. Please see the "How we share the information we collect" section of our Privacy Statement for additional details.
+
+We do not sell your personal information
+Under the CCPA, a business that sells California residentsg personal information to others: 1) must give notice to California residents before selling their personal information to others; and 2) must provide the right to opt out of the sale of their personal information. CrossCompute does not sell personal information, including personal information of anyone under 16 years old.
+
+Your rights under the CCPA
+The CCPA provides California residents with certain rights related to their personal information. To submit a request based on these rights, please contact us via our contact form.
+
+When receiving a request, we will verify that the individual making the request is the resident to whom the personal information subject to the request pertains. California residents may exercise their rights themselves or may use an authorized agent, designated in writing or through a power of attorney, to make requests on their behalf. If you use an authorized agent to submit a request, we may require that you provide us additional information demonstrating that the agent is acting on your behalf, and we may need you to verify your identity directly with us. With respect to your personal information, California residents may exercise the rights described below.
+
+Right to Know.
+You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this privacy statement. You can use CrossCompute’s User Migration tool to access and download your data. Learn more here. You may also make such a "request to know" by contacting us here.
+
+Right to Request Deletion.
+You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, you can contact us here or use the account settings here.
+
+Right to Opt-Out.
+You have a right to opt-out from future "sales" of personal information. Note that we do not "sell" personal information as defined by the CCPA and have not done so in the past 12 months.
+
+Right to Non-Discrimination.
+You have a right to not be discriminated against for exercising your CCPA rights. We will not discriminate against you for exercising your CCPA rights.
+
+You may designate, in writing or through a power of attorney, an authorized agent to make requests on your behalf to exercise your rights under the CCPA. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us. Further, to provide or delete specific pieces of personal information we will need to verify your identity to the degree of certainty required by law. We will verify your request by asking you to submit the request from the email address associated with your account or requiring you to provide information necessary to verify your account. Please note that you may use two-factor authentication with your CrossCompute account.
+Finally, you have a right to receive notice of our practices at or before collection of personal information.
+
+Additionally, under California Civil Code section 1798.83, also known as the "Shine the Light" law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes ("California Customers") may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law. California Customers may request further information about our compliance with this law by emailing (privacy [at] github [dot] com). Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
+
+California residents under the age of 18 who are registered users of online sites, services, or applications have a right under California Business and Professions Code Section 22581 to remove, or request and obtain removal of, content or information they have publicly posted. To remove content or information you have publicly posted, please submit a Private Information Removal request. Alternatively, to request that we remove such content or information, please send a detailed description of the specific content or information you wish to have removed to CrossCompute support. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances. If you have any questions about our privacy practices with respect to California residents, please contact us via our contact form.
