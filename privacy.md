@@ -25,7 +25,7 @@ Our Service is not intended for children under 13 years of age. No one under age
 
 ## CrossCompute acting on your behalf
 
-In some cases, CrossCompute is acting only on your behalf for the personal data we collect and process in connection with our Service (for example, for the personal data added to a project by the contributors to such project). In such cases, CrossCompute will only process the data in order to provide the Service requested by you. Please note that subject to our Private Information Removal Policy contributors’ requests to remove personal data generally require notice to and action from the project owner.
+In some cases, CrossCompute is acting only on your behalf for the personal data we collect and process in connection with our Service (for example, for the personal data added to a project by the contributors to such project). In such cases, CrossCompute will only process the data in order to provide the Service requested by you. Please note that contributors' requests to remove personal data generally require notice to and action from the project owner.
 
 ## Information we collect about you and how we collect it
 
@@ -61,7 +61,7 @@ When you are asked to provide personal data, you may decline. And you may use we
 
 - Other companies with whom you choose to engage: CrossCompute may collect personal data about you from third parties. For example, this may happen if you sign up for training or to receive information about CrossCompute from one of our vendors, partners, or affiliates. CrossCompute does not purchase personal data from third-party data brokers.
 - Service providers: We may also receive information from processors or service providers who process the data on our behalf, such as our payment processor who process payment and billing information in connection with our Service.
-- Content you post on our Service: Information you store in, or contribute to, a public project, provide for use in connection with a Community Feature or make otherwise publicly available through the Service will be collected by CrossCompute as described in this Privacy Statement. Such information may also be available to the CrossCompute user community as well as the general public.
+- Content you post on our Service: Information you store in, or contribute to, a public project, or make otherwise publicly available through the Service will be collected by CrossCompute as described in this Privacy Policy. Such information may also be available to the CrossCompute user community as well as the general public.
 - Co-branding/marketing partners: We may receive information from partners with which we offer co-branded services or engage in joint marketing activities.
 - Publicly available sources: We may also obtain information from publicly available sources such as CrossCompute projects.
 
@@ -69,7 +69,7 @@ When you are asked to provide personal data, you may decline. And you may use we
 
 Some content or applications, including advertisements, on the Service are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Your Choices About How We Use and Disclose Your Information.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Your choices about how we use and disclose your information.
 
 ## How we use your information
 
@@ -84,7 +84,7 @@ We may use your information to provide, administer, analyze, manage, and operate
 - Personalize and measure the effectiveness of enterprise business ads, promotional communications or marketing you receive related to the Enterprise Marketing Pages.
 - Send you information, including confirmations, invoices, technical notices, updates, security alerts, support and administrative messages.
 
-We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your user preferences in your account profile. For more information, see Your Choices About How We Use and Disclose Your Information.
+We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your user preferences in your account profile. For more information, see Your choices about how we use and disclose your information.
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -96,19 +96,19 @@ We share personal data as described below, including with your consent or as nec
 
 ### Public information
 
-You may select options available through our Service to publicly display and share your name and/or username and certain other information, such as your profile, demographic data, content and files, or geolocation data. For example, if you would like your email address to remain private, even when you’re commenting on public projects, you can adjust your setting for your email address to be private in your user profile. You can also update your project configuration to use your private email address. Please see more about email addresses in commit messages here.
+You may select options available through our Service to publicly display and share your name and/or username and certain other information, such as your profile, demographic data, content and files, or geolocation data. For example, if you would like your email address to remain private, even when you're commenting on public projects, you can adjust your setting for your email address to be private in your user profile. You can also update your project configuration to use your private email address. Please see more about email addresses in commit messages here.
 
 Please note that if you would like to compile CrossCompute data, you must comply with our Terms of Service regarding information usage and privacy, and you may only use any public-facing information you gather for the purpose for which our user authorized it. For example, where a CrossCompute user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards, or for commercial advertising. We expect you to reasonably secure information you have gathered from CrossCompute, and to respond promptly to complaints, removal requests, and "do not contact" requests from CrossCompute or CrossCompute users.
 
 ### Third-party applications
 
-We share your personal data with third parties when you tell us to do so. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application developer to provide you with services. Additionally, you may direct us through your actions on CrossCompute to share your personal data. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
+We share your personal data with third parties when you tell us to do so. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application developer to provide you with services. Additionally, you may direct us through your actions on CrossCompute to share your personal data. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization's access log.
 
 You can enable or add third-party applications, known as "Developer Products" to your Account. These Developer Products are not necessary for your use of CrossCompute. We will share your personal data with such third-party applications when you ask us to; however, you are responsible for your use of the third-party Developer Product and for the amount of personal data you choose to share with it. You can check our API documentation to see what information is provided when you authenticate into a Developer Product using your CrossCompute profile.
 
 ### Organizations with which you engage
 
-You may indicate, through your actions on CrossCompute, that you are willing to share your personal data. If you collaborate on or become a member of an organization, then its Account owners may receive your personal data. When you accept an invitation to an organization, you will be notified of the types of information owners may be able to see (for more information, see About Organization Membership). Please contact the Account owners for more information about how they might process your personal data in their Organization and the ways for you to access, update, alter, or delete your personal data stored in the Account.
+You may indicate, through your actions on CrossCompute, that you are willing to share your personal data. If you collaborate on or become a member of an organization, then its Account owners may receive your personal data. When you accept an invitation to an organization, you will be notified of the types of information owners may be able to see. Please contact the Account owners for more information about how they might process your personal data in their Organization and the ways for you to access, update, alter, or delete your personal data stored in the Account.
 
 ### Service providers
 
@@ -128,11 +128,11 @@ We will disclose personal data if we believe it is necessary to:
 
 ### For legal disclosure
 
-CrossCompute may disclose personal data or other information we collect about you to law enforcement or other governmental agencies if required in response to a valid legal process. For more information about our disclosure in response to legal requests, see our Guidelines for Legal Requests of User Data.
+CrossCompute may disclose personal data or other information we collect about you to law enforcement or other governmental agencies if required in response to a valid legal process.
 
 ### Change in control or sale
 
-We may share your personal data if we are involved in a merger, sale, or acquisition of corporate entities or business units as described in this Privacy Statement.
+We may share your personal data if we are involved in a merger, sale, or acquisition of corporate entities or business units as described in this Privacy Policy.
 
 Please note that some of the features on our Service include integrations, references, or links to services provided by third parties whose privacy practices differ from ours. If you provide personal data to any of those third parties, or allow us to share personal data with them, that data is governed by their privacy statements.
 
