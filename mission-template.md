@@ -4,8 +4,8 @@ Describe the problem.
 # People
 List people who have the problem.
 
-# Timeframe
-Set start and end dates.
+# Constraints
+Set budget and timeframe.
 
 # Log
 Record progress.
