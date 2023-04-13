@@ -27,7 +27,7 @@ You must not:
     • Modify copies of any materials from this site.
     • Delete or alter any copyright, trademark or other proprietary rights notices from copies of materials from this site.
 You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website. 
-If you wish to make any use of material on the Website other than that set out in this section, please address your request to: legal@crosscompute.com.
+If you wish to make any use of material on the Website other than that set out in this section, please address your request to: support+legal@crosscompute.com.
 If you print, copy, modify, download or otherwise use or provide any other person with access to any part of the Website in breach of the Terms of Use, your right to use the Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. No right, title or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark and other laws.
 Trademarks
 The Company name, the terms CrossCompute, and all related names, logos, product and service names, designs and slogans are trademarks of the Company or its affiliates or licensors. You must not use such marks without the prior written permission of the Company. All other names, logos, product and service names, designs and slogans on this Website are the trademarks of their respective owners.

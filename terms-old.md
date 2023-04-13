@@ -120,7 +120,7 @@ Users may not use the Service in a manner that would violate the lawful privacy 
 
 ### Violation of Copyright, Trademark, Patent or Trade Secret
 
-Users may not use the Service in violation of the copyrights, trademarks, patents or trade secrets of third parties, nor shall they utilize the Service to publish such materials in a manner that would expose them to public view in violation of the law. The provisions of the Digital Millennium Copyright Act of 1998 (as required under 17 U.S.C. §512) and all other applicable international trademark, copyright, patent or other intellectual property laws will apply to issues presented by allegations of copyright violations by third parties. CrossCompute will, in appropriate circumstances, terminate the accounts of repeat violators. If a third party believes that a User of CrossCompute is violating its intellectual property rights, it should notify us by email at legal@crosscompute.com. A notification should include information reasonably sufficient to permit CrossCompute to locate the allegedly infringing material, such as the IP address or URL of the specific online location where the alleged infringement is occurring. Please see our Copyright Infringement and DMCA Policy.
+Users may not use the Service in violation of the copyrights, trademarks, patents or trade secrets of third parties, nor shall they utilize the Service to publish such materials in a manner that would expose them to public view in violation of the law. The provisions of the Digital Millennium Copyright Act of 1998 (as required under 17 U.S.C. §512) and all other applicable international trademark, copyright, patent or other intellectual property laws will apply to issues presented by allegations of copyright violations by third parties. CrossCompute will, in appropriate circumstances, terminate the accounts of repeat violators. If a third party believes that a User of CrossCompute is violating its intellectual property rights, it should notify us by email at support+legal@crosscompute.com. A notification should include information reasonably sufficient to permit CrossCompute to locate the allegedly infringing material, such as the IP address or URL of the specific online location where the alleged infringement is occurring. Please see our Copyright Infringement and DMCA Policy.
 
 ### Export
 
@@ -184,7 +184,7 @@ The Service may permit you to link to other websites, services or resources on t
 
 ## Copyright Infringement and DMCA Policy
 
-If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy. If you are a copyright owner and you believe that content on CrossCompute violates your rights, please contact us by emailing legal@crosscompute.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy. If you are a copyright owner and you believe that content on CrossCompute violates your rights, please contact us by emailing support+legal@crosscompute.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
 We will terminate the accounts of repeat infringers of this policy.
 
@@ -310,7 +310,7 @@ In addition, you agree that CrossCompute is not responsible for any data compile
 
 ## Publicity
 
-Each User is permitted to state publicly that such User is a User of the Service. Subject to our Privacy Policy, each User agrees that CrossCompute may include such User's name and trademarks in a list of CrossCompute User, online or in promotional materials. Each User also agrees that CrossCompute may verbally reference such User as a User of the Service. User may opt out of the provisions in this section by e-mailing a request to legal@crosscompute.com.
+Each User is permitted to state publicly that such User is a User of the Service. Subject to our Privacy Policy, each User agrees that CrossCompute may include such User's name and trademarks in a list of CrossCompute User, online or in promotional materials. Each User also agrees that CrossCompute may verbally reference such User as a User of the Service. User may opt out of the provisions in this section by e-mailing a request to support+legal@crosscompute.com.
 
 ## Release and Indemnification
 
@@ -330,7 +330,7 @@ Any claim arising hereunder shall be construed in accordance with the substantiv
 
 ## Dispute Resolution
 
-Mindful of the high cost of litigation, you and CrossCompute agree to the following dispute resolution procedure: in the event of any controversy, claim, action or dispute arising out of or related to: (i) the Website; (ii) this Agreement; (iii) the Service; (iv) the breach, enforcement, interpretation, or validity of this Agreement; or (v) any other dispute between you and CrossCompute, the party asserting the dispute shall first try in good faith to settle such dispute by providing written notice to the other party describing the facts and circumstances (including any relevant documentation) of the dispute and allowing the receiving party 30 days in which to respond to or settle the dispute. Notice shall be sent (1) if to CrossCompute, Inc. at legal@crosscompute.com or (2) if to you at your last-used email address. Both you and CrossCompute agree that this dispute resolution procedure is a condition precedent that must be satisfied prior to initiating any arbitration or filing any claim against the other party.
+Mindful of the high cost of litigation, you and CrossCompute agree to the following dispute resolution procedure: in the event of any controversy, claim, action or dispute arising out of or related to: (i) the Website; (ii) this Agreement; (iii) the Service; (iv) the breach, enforcement, interpretation, or validity of this Agreement; or (v) any other dispute between you and CrossCompute, the party asserting the dispute shall first try in good faith to settle such dispute by providing written notice to the other party describing the facts and circumstances (including any relevant documentation) of the dispute and allowing the receiving party 30 days in which to respond to or settle the dispute. Notice shall be sent (1) if to CrossCompute, Inc. at support+legal@crosscompute.com or (2) if to you at your last-used email address. Both you and CrossCompute agree that this dispute resolution procedure is a condition precedent that must be satisfied prior to initiating any arbitration or filing any claim against the other party.
 
 ## Mandatory Arbitration Agreement and Class Action Waiver
 

@@ -21,7 +21,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ## Children under the age of 13
 
-Our Service is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Service. We do not knowingly collect personal information from children under 13. If you are under 13, do not register on the Service, make any purchases through the Service, use any of the interactive or public comment features of this Service or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at legal@crosscompute.com.
+Our Service is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Service. We do not knowingly collect personal information from children under 13. If you are under 13, do not register on the Service, make any purchases through the Service, use any of the interactive or public comment features of this Service or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support+legal@crosscompute.com.
 
 ## CrossCompute acting on your behalf
 
@@ -140,9 +140,9 @@ Please note that some of the features on our Service include integrations, refer
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-- Disclosure of your information for third-party advertising: If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt out by logging into the Service and adjusting your user preferences in your account profile or by sending us an email stating your request to legal@crosscompute.com.
-- Promotional offers from CrossCompute. If you do not wish to have your email address used by CrossCompute to promote our own or third parties' products or services, you can opt out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to legal@crosscompute.com. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
-- Targeted advertising: If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to legal@crosscompute.com.
+- Disclosure of your information for third-party advertising: If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt out by logging into the Service and adjusting your user preferences in your account profile or by sending us an email stating your request to support+legal@crosscompute.com.
+- Promotional offers from CrossCompute. If you do not wish to have your email address used by CrossCompute to promote our own or third parties' products or services, you can opt out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to support+legal@crosscompute.com. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
+- Targeted advertising: If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to support+legal@crosscompute.com.
 
 We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
 
@@ -150,7 +150,7 @@ We do not control third parties' collection or use of your information to serve 
 
 You can review and change your personal information by logging into the Service and visiting your account profile page.
 
-You may also send us an email at legal@crosscompute.com to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email at support+legal@crosscompute.com to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Service, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided on the Service, including User Contributions, is governed by our terms of use.
 
@@ -175,6 +175,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 ## Contact information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at legal@crosscompute.com.
+To ask questions or comment about this privacy policy and our privacy practices, contact us at support+legal@crosscompute.com.
 
 To register a complaint or concern, please include PRIVACY in the subject line.
