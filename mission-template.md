@@ -5,7 +5,7 @@ Describe the problem.
 List people who have the problem.
 
 # Constraints
-Set budget and timeframe.
+Set deliverables, timeline and budget.
 
 # Log
 Record progress.
